@@ -4,3 +4,18 @@
 [submodule "neural-networks-course-2025"]
 	path = neural-networks-course-2025
 	url = git@github.com:Noarkhh/neural-networks-course-2025.git
+[submodule "graph-grammars-course-2025"]
+	path = graph-grammars-course-2025
+	url = git@github.com:Noarkhh/graph-grammars-course-2025.git
+[submodule "nlp-course-2025"]
+	path = nlp-course-2025
+	url = git@github.com:Noarkhh/nlp-course-2025.git
+[submodule "ai-in-it-systems-course-2025"]
+	path = ai-in-it-systems-course-2025
+	url = git@github.com:Noarkhh/ai-in-it-systems-course-2025.git
+[submodule "bayesian-methods-in-data-analysis-course-2025"]
+	path = bayesian-methods-in-data-analysis-course-2025
+	url = git@github.com:Noarkhh/bayesian-methods-in-data-analysis-course-2025.git
+[submodule "ml-in-neuroscience-course-2025"]
+	path = ml-in-neuroscience-course-2025
+	url = git@github.com:Noarkhh/ml-in-neuroscience-course-2025.git
